@@ -49,3 +49,19 @@ while read regex;do ./build/bin/tetrex query build/sprot_k6.ibf $regex;done<rege
 ## Single Bin
 while read regex;do ./build/bin/tetrex query sprot_single_bin.ibf $regex;done<regexs.txt 2>runtimes_single_bin.tsv
 ```
+
+### Measure Runtimes and Complexities
+```shell
+## k=3
+while read regex;do ./build/bin/tetrex query ./variable_k_idx/sprot_k3.ibf $regex 2>>runtimes_and_complex/runtimes_and_complex_k3.txt;done<../tetrex_analysis/variable_k/regexs.txt
+
+## k=4
+while read regex;do ./build/bin/tetrex query ./variable_k_idx/sprot_k4.ibf $regex 2>>runtimes_and_complex/runtimes_and_complex_k4.txt;done<../tetrex_analysis/variable_k/regexs.txt
+
+## k=5
+while read regex;do ./build/bin/tetrex query ./variable_k_idx/sprot_k5.ibf $regex 2>>runtimes_and_complex/runtimes_and_complex_k5.txt;done<../tetrex_analysis/variable_k/regexs.txt
+
+## k=6
+while read regex;do ./build/bin/tetrex query ./variable_k_idx/sprot_k6.ibf $regex 2>>runtimes_and_complex/runtimes_and_complex_k6.txt;done<../tetrex_analysis/variable_k/regexs.txt
+```
+

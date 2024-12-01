@@ -22,7 +22,7 @@ FLA(Q|H)(Q|E)ES
 (I|V)(S|Y|W|T|R|P|F|E|I|D|Q|H|A|V|C|G|N|M|L)(T|A|C|I)Y(R|K|H)(S|Y|W|T|R|P|F|I|K|D|Q|H|A|V|C|G|N|M|L)(L|M)L(D|E)
 (S|A|G)GGTG(S|A)G
 C(D|E)(Y|F)NRD
-F(I|V|F|Y)G(L|M)M(G|$)
+F(I|V|F|Y)G(L|M)MG
 (F|Y)(M|I|F|H|E|P|R|C|V|W|G|K|T|S|D|Y|N|A|Q)C(M|I|V|F|W|H|E|Q|K|T|S|R|Y|N|C|L)(V|A)(M|I|F|H|E|P|R|V|W|G|K|T|S|D|Y|N|A|Q)H
 AGAAAAGAVVGGLGGY
 (L|I|V)(S|T|A|G)V(D|E|Q|V)(F|L|I)D(S|T)
@@ -51,7 +51,7 @@ Y(K|R)G(A|S)(A|E)Y
 (G|S)(M|Y|V|C|Q|F|E|A|H|W|N|L|K|T|D|I|S|G)SM(M|Y|V|C|Q|F|E|A|H|W|N|L|K|T|D|I|P|G)(P|S)(A|T)(L|F)
 (F|Y)PS(A|G|M|S)CGKT(N|S)
 (D|E|Q)(K|R|Q|T)(L|M|F)E(F|Y|W)(L|V)GD(S|A|R|H|G)
-F(G|S|T|V)PRL(G|$)
+F(G|S|T|V)PRLG
 SKRKYRK
 SNHG(A|G)RQ
 (A|S|L)(F|Y)SGG(L|V)DT(S|T)
