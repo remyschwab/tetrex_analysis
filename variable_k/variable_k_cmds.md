@@ -65,3 +65,19 @@ while read regex;do ./build/bin/tetrex query ./variable_k_idx/sprot_k5.ibf $rege
 while read regex;do ./build/bin/tetrex query ./variable_k_idx/sprot_k6.ibf $regex 2>>runtimes_and_complex/runtimes_and_complex_k6.txt;done<../tetrex_analysis/variable_k/regexs.txt
 ```
 
+
+## Measure Runtimes, Complexities, Index Queries, Paths Pruned, Absorptions
+```shell
+## k=3
+while read regex;do ./build/bin/tetrex query ./variable_k_idx/sprot_k3.ibf $regex 2>>runtimes_and_info/runtimes_info_k3.tsv;done<../tetrex_analysis/variable_k/regexs.txt
+
+## k=4
+while read regex;do ./build/bin/tetrex query ./variable_k_idx/sprot_k4.ibf $regex 2>>runtimes_and_info/runtimes_info_k4.tsv;done<../tetrex_analysis/variable_k/regexs.txt
+
+## k=5
+while read regex;do ./build/bin/tetrex query ./variable_k_idx/sprot_k5.ibf $regex 2>>runtimes_and_info/runtimes_info_k5.tsv;done<../tetrex_analysis/variable_k/regexs.txt
+
+## k=6
+while read regex;do ./build/bin/tetrex query ./variable_k_idx/sprot_k6.ibf $regex 2>>runtimes_and_info/runtimes_info_k6.tsv;done<../tetrex_analysis/variable_k/regexs.txt
+```
+
