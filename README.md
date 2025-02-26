@@ -10,3 +10,6 @@ Variable k Analysis
 3. `runtimes_no_cache` was run without the cache (duh) and also has complexity info and index counts
 4. `runtimes_and_info` was run without cache and also tracks complexity, index queries, pruneings, absorptions, and max pileups
 
+Swissprot Benchmark Data
+`data/RESULTS/all_sprot_times.tsv` contains the 116 RegEx used for benchmarking as well as associated runtimes and other info
+
