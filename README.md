@@ -1,4 +1,4 @@
-# tetrex_analysis
+# tetrex_analysis [![DOI](https://zenodo.org/badge/891979741.svg)](https://doi.org/10.5281/zenodo.15056050)
 Experiments and Analyses done for publication of TetRex
 
 
