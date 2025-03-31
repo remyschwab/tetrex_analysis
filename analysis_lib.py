@@ -10,7 +10,7 @@ import subprocess
 import os
 
 from matplotlib.pyplot import figure
-from pysam import FastaFile
+# from pysam import FastaFile
 
 
 def init_amino_acids():
