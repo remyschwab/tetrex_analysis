@@ -1,0 +1,14 @@
+>sp|P84761|ACI_MACGN Angiotensin-1-converting enzyme inhibitory peptide OS=Macrocybe gigantea OX=1491104 PE=1 SV=1
+GEP
+>sp|P83570|GWA_SEPOF Neuropeptide GWa OS=Sepia officinalis OX=6610 PE=1 SV=1
+GW
+>sp|P0DPR3|TRDD1_HUMAN T cell receptor delta diversity 1 OS=Homo sapiens OX=9606 GN=TRDD1 PE=1 SV=1
+EI
+>sp|P62970|TRH_BOMOR Thyrotropin-releasing hormone OS=Bombina orientalis OX=8346 PE=1 SV=1
+QHP
+>sp|P62971|TRH_NOTVI Thyrotropin-releasing hormone OS=Notophthalmus viridescens OX=8316 PE=1 SV=1
+QHP
+>sp|P62968|TRH_PIG Thyrotropin-releasing hormone OS=Sus scrofa OX=9823 GN=TRH PE=1 SV=1
+QHP
+>sp|P62969|TRH_SHEEP Thyrotropin-releasing hormone OS=Ovis aries OX=9940 GN=TRH PE=1 SV=1
+QHP
